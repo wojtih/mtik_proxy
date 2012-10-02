@@ -15,6 +15,7 @@ MTikProxy::Connection.new(device).reboot!
 ## TODO
 
 Catch unauthorized error
+
 Fix reboot noanswer issue
 
 ## License
